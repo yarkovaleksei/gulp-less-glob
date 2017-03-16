@@ -20,7 +20,6 @@ function transform( file, env, callback, options = {} ) {
     includePaths[ i ] = path.join( path.normalize( includePaths[ i ] ), '/' );
   }
 
-  const isLess = path.extname( file.path ) === '.less';
   const base = path.normalize( path.join( path.dirname( file.path ), '/' ) );
   const ignorePaths = options.ignorePaths || [];
 
