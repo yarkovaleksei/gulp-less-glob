@@ -1,8 +1,8 @@
+# gulp-less-glob
+
 [![Package Quality](http://npm.packagequality.com/badge/gulp-less-glob.png)](http://packagequality.com/#?package=gulp-less-glob)
 
 [![Package Quality](http://npm.packagequality.com/shield/gulp-less-glob.svg)](http://packagequality.com/#?package=gulp-less-glob)  [![Build Status](https://travis-ci.org/yarkovaleksei/gulp-less-glob.svg?branch=master)](https://travis-ci.org/yarkovaleksei/gulp-less-glob)  ![](https://david-dm.org/yarkovaleksei/gulp-less-glob.svg)
-
-# gulp-less-glob
 
 [Gulp](http://gulpjs.com/) plugin for [gulp-less](https://github.com/plus3network/gulp-less) to use glob imports.
 
